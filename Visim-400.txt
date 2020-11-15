@@ -3,6 +3,7 @@ biến	ngập	V	3.13	5.22	0.72
 nhà_thi_đấu	nhà	N	3.07	5.12	1.18
 động	tĩnh	V	0.6	1.0	0.95
 khuyết	ưu	N	0.2	0.33	0.4
+cõi_tục	cõi_âm	N	0.6	1.0	0.95
 thủ_pháp	biện_pháp	N	4.13	6.88	1.26
 kết_duyên	thành_hôn	V	5.27	8.78	1.06
 cấp_tiến	bảo_thủ	A	0.87	1.45	1.15
